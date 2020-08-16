@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**rohitsharmaj7/rohitsharmaj7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science & Engineering graduate of 2020 batch. I come with an extensive experience of working with Web Development.
 
-Here are some ideas to get you started:
+Currently, I am working as a Senior Software Developer at eClerx, Chandigarh.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Things I'm good at 🔥
+Languages: HTML, CSS, JavaScript, SQL.
+
+Framework: Angular 9, React, Bootstrap.
+
+Libraries & Tools: PHPExcel, npm modules, heroku, vercel, github, heroku.
+
+
+How to reach me 📱
+Known on internet as rohitsharmaj7
