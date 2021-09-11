@@ -1,6 +1,6 @@
 <img src="https://img.icons8.com/emoji/48/000000/waving-hand-emoji.png"/> 
 <h1>I'm Rohit Sharma</h1>
-<h3>Frontend Development Engineer at eClerx</h3>
+<h2>Frontend Development Engineer at eClerx</h2>
 
 <h3>My Primary Areas of work are:</h3>
 
