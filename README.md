@@ -11,6 +11,7 @@
 [<img src="https://img.icons8.com/color/48/000000/redux.png"/>]()
 [<img src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/>]()
 [<img src="https://img.icons8.com/color/48/000000/sass.png"/>]()
+[<img src="https://img.icons8.com/external-itim2101-flat-itim2101/48/000000/external-email-digital-marketing-itim2101-flat-itim2101.png"/>]
 
 <h3>How to reach me 📱</h3>
 
