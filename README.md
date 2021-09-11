@@ -1,5 +1,5 @@
 <h1>I'm Rohit Sharma</h1>
-<h2>Frontend Development Engineer at eClerx</h2>
+<p>I am currently working as a Frontend Development Engineer at eClerx India. I come with an extensive experience of working with Web Development</p>
 
 <h3>My Primary Areas of work are:</h3>
 
