@@ -11,7 +11,15 @@
 [<img src="https://img.icons8.com/color/48/000000/redux.png"/>]()
 [<img src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/>]()
 [<img src="https://img.icons8.com/color/48/000000/sass.png"/>]()
-[<img src="https://img.icons8.com/external-itim2101-flat-itim2101/48/000000/external-email-digital-marketing-itim2101-flat-itim2101.png"/>]
+[<img src="https://img.icons8.com/external-itim2101-flat-itim2101/48/000000/external-email-digital-marketing-itim2101-flat-itim2101.png"/>]()
+[<img src="https://img.icons8.com/officel/48/000000/php-logo.png"/>]()
+
+<h3>Tools/Platforms I have worked with:</h3>
+
+[<img src="https://img.icons8.com/color/48/000000/heroku.png"/>]() 
+[<img src="https://img.icons8.com/color/48/000000/git.png"/>]()
+[<img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>]()
+[<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>]()
 
 <h3>How to reach me 📱</h3>
 
