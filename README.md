@@ -27,5 +27,5 @@
 [<img src="https://img.icons8.com/color/50/000000/whatsapp.png"/>](https://wa.me/9646870027)
 [<img src="https://img.icons8.com/color/50/000000/skype.png"/>]()
 
-<h3><a href="#">Download CV</a></h3>
+<h3><a href="https://github.com/rohitsharmaj7/rohitsharmaj7/blob/master/CV_Rohit_Sharma.pdf">Download CV</a></h3>
 
