@@ -26,3 +26,6 @@
 [<img src="https://img.icons8.com/color/50/000000/linkedin.png"/>](https://linkedin.com/in/rohitsharmaj7) 
 [<img src="https://img.icons8.com/color/50/000000/whatsapp.png"/>](https://wa.me/9646870027)
 [<img src="https://img.icons8.com/color/50/000000/skype.png"/>]()
+
+<h3>Download my CV here</h3>
+[<img src="https://img.icons8.com/officel/30/000000/parse-from-clipboard.png"/>]()
